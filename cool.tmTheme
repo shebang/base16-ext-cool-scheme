@@ -6,11 +6,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Chris Kempson (http:&#x2f;&#x2f;chriskempson.com)</string>
+	<string>shebang</string>
 	<key>name</key>
-	<string>ShbBase16 Cool</string>
+	<string>Cool</string>
 	<key>semanticClass</key>
-	<string>theme.dark.shbbase16_cool</string>
+	<string>theme.dark.base20_cool</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>settings</key>
