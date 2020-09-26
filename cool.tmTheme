@@ -8,9 +8,9 @@
 	<key>author</key>
 	<string>shebang</string>
 	<key>name</key>
-	<string>Cool</string>
+	<string>base16 ext cool</string>
 	<key>semanticClass</key>
-	<string>theme.dark.base20_cool</string>
+	<string>theme.dark.base16_ext_cool</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>settings</key>
