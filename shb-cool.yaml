@@ -1,5 +1,6 @@
 scheme: "shb cool"
 author: "shebang"
+variant: "base64"
 
 base00: "262626"
 base01: "3a3a3a"
